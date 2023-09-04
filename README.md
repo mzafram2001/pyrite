@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/bLG9kMb/Pyrite-Banner-Intro-No-Bg.png)
+![Banner](https://i.ibb.co/vxNxRb4/Pyrite-Banner-1.png)
 
 <p align='center'>
    <a href='#'><img align='center' alt='GitHub repo size' src='https://img.shields.io/github/repo-size/mzafram2001/pyrite?color=AC9362&style=for-the-badge&logo=github'></a>
@@ -14,6 +14,6 @@
 
 ---
 
-![Banner](https://i.ibb.co/9qsmyj8/Pyrite-Banner-Outro-No-Bg.png)
+![Banner](https://i.ibb.co/1rWQ81t/Pyrite-Banner.png)
 
 NOTE: This is a demo repository, the repository with the full code is private.
