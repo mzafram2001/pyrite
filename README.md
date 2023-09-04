@@ -8,9 +8,32 @@
 
 ---
 
-<h3 align='center'>Pyrite</h3>
+# [Pyrite](https://arkeos-pyrite.web.app)
+Here you have the direct link to the web app.
 
-<p align='center'>A simple web application to check the weather in cities.</p>
+---
+
+# About
+
+Pyrite is the ultimate web application to keep you always one step ahead of the weather. Designed with the latest technology and development tools, this application gives you instant, real-time access to a wide range of essential weather data.
+
+---
+
+# Stack used
+
+Vue, Vite, HTML, CSS, Tailwind CSS, JavaScript, OpenWeather API and Leaflet.
+
+---
+
+# Screenshoots
+![Banner](https://i.ibb.co/XS1K3cs/home.png)
+Home view.
+
+![Banner](https://i.ibb.co/r6vLwkr/weather1.png)
+Weather view.
+
+![Banner](https://i.ibb.co/ZM4Lpdd/weather2.png)
+5 day forecast view.
 
 ---
 
